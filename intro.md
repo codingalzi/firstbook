@@ -2,8 +2,8 @@
 
 ## Test for Korean Search
 
-한글과 레이텍(Korean and Latex)
-한글 사용법(How to use Korean)
+- 한글과 레이텍(Korean and Latex)
+- 한글 사용법(How to use Korean)
 
 
 ## Sample texts
